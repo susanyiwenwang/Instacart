@@ -17,5 +17,5 @@ These are the key questions that the sales team would like to know about the Ins
 
 ### Data set
 The data set is from the following website [Kaggle Instacart](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis) with additional data fabricated by CareerFoundry for the purposes of this project. 
-* The folder for the Data has not been included in this repository. *
+*The "Data" folder has not been included in this repository.*
 
