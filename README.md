@@ -4,11 +4,11 @@ Data analysis project for the Instacart online grocery store
 ## Instacart Grocery Basket Project Brief
 
 ### Context
-Instacart is an online grocery store that operates through an app. My task as an analyst is to uncover more information about their sales patterns. I will initial data and exploratory analysis to derive insights and make suggestions on targeted marketing strategies.
+Instacart is an online grocery store that operates through an app. My task as an analyst is to uncover more information about their sales patterns. My analysis will help the sales team with theeir targeted marketing strategy and ensure that their marketing campaigns are effective.
 
 ### Key Questions
 These are the key questions that the sales team would like to know about the Instacart customers:
-- What aree thee busiest days of the week and the busiest hours of the day? 
+- What aree the busiest days of the week and the busiest hours of the day? 
 - What are the times of day when people spend the most money?
 - Is there a way to use simpler price range groupings?
 - Are there certain types of products that are more populars than others?
@@ -17,4 +17,5 @@ These are the key questions that the sales team would like to know about the Ins
 
 ### Data set
 The data set is from the following website [Kaggle Instacart](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis) with additional data fabricated by CareerFoundry for the purposes of this project. 
+* The folder for the Data has not been included in this repository. *
 
